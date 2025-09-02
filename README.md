@@ -36,12 +36,11 @@ This project predicts which files in a GitHub repository are most likely to cont
 - Improve software quality with data-driven insights
   
 ## 🛠️ Setup Instructions
-git clone https://github.com/yourusername/bug-prediction-engine.git
-
-cd bug-prediction-engine
-
+git clone https://github.com/jiya-0805/bug_detection.git
+cd bug_detection
+python -m venv venv
+source venv/Scripts/activate
 pip install -r requirements.txt
-
 streamlit run app.py
 
   
