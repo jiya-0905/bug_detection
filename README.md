@@ -1,6 +1,8 @@
 # 🐞 Bug Prediction Engine for GitHub Repositories
 ## 🔍 Overview
 This project predicts which files in a GitHub repository are most likely to contain bugs, using commit history and code metrics. It helps developers prioritize code reviews and testing efforts by identifying high-risk areas in large codebases.
+
+
 <img width="1903" height="1025" alt="Screenshot 2025-09-02 210221" src="https://github.com/user-attachments/assets/b7cbedbf-4da1-4b94-a27f-092e10797bd4" />
 <img width="1905" height="734" alt="Screenshot 2025-09-02 210437" src="https://github.com/user-attachments/assets/b13e20ba-7bed-4cca-848b-08a66da0ecd3" />
 
